@@ -25,7 +25,7 @@
                 like saving the signature to the local device.
 
 
-       The Site is live at https://itsssingh.github.io/signature-app/
+ The Site is live at https://itsssingh.github.io/signature-app/
 
        
 

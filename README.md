@@ -1,4 +1,4 @@
-# Digital Signature App 
+# Digital Signature App  - ( One Solution for all your digital Signatures )
 
 - The Digital Signature App is an online signature application built using HTML, CSS, and JS.
 - The application is built to sign and save your signature on your local devices.
